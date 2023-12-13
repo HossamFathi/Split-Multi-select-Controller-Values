@@ -1,0 +1,9 @@
+D:\OrascomDH\Code Files\2 -Test\WF\WF_SeperateCaseTypeField\WF_SeperateCaseTypeField\obj\Debug\WF_SeperateCaseTypeField.csprojResolveAssemblyReference.cache
+D:\OrascomDH\Code Files\2 -Test\WF\WF_SeperateCaseTypeField\WF_SeperateCaseTypeField\bin\Debug\WF_SeperateCaseTypeField.dll
+D:\OrascomDH\Code Files\2 -Test\WF\WF_SeperateCaseTypeField\WF_SeperateCaseTypeField\bin\Debug\WF_SeperateCaseTypeField.pdb
+D:\OrascomDH\Code Files\2 -Test\WF\WF_SeperateCaseTypeField\WF_SeperateCaseTypeField\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\OrascomDH\Code Files\2 -Test\WF\WF_SeperateCaseTypeField\WF_SeperateCaseTypeField\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+D:\OrascomDH\Code Files\2 -Test\WF\WF_SeperateCaseTypeField\WF_SeperateCaseTypeField\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\OrascomDH\Code Files\2 -Test\WF\WF_SeperateCaseTypeField\WF_SeperateCaseTypeField\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+D:\OrascomDH\Code Files\2 -Test\WF\WF_SeperateCaseTypeField\WF_SeperateCaseTypeField\obj\Debug\WF_SeperateCaseTypeField.dll
+D:\OrascomDH\Code Files\2 -Test\WF\WF_SeperateCaseTypeField\WF_SeperateCaseTypeField\obj\Debug\WF_SeperateCaseTypeField.pdb
